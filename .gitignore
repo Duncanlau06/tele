@@ -1,0 +1,20 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Telethon session files (CRITICAL SECURITY)
+*.session
+*.session-journal
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary JSON files
+*.json
